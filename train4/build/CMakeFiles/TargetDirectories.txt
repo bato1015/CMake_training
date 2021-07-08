@@ -1,0 +1,9 @@
+/home/bato/cit/training/CMake_Training/train4/build/CMakeFiles/rebuild_cache.dir
+/home/bato/cit/training/CMake_Training/train4/build/CMakeFiles/edit_cache.dir
+/home/bato/cit/training/CMake_Training/train4/build/CMakeFiles/main_app.dir
+/home/bato/cit/training/CMake_Training/train4/build/src/CMakeFiles/rebuild_cache.dir
+/home/bato/cit/training/CMake_Training/train4/build/src/CMakeFiles/edit_cache.dir
+/home/bato/cit/training/CMake_Training/train4/build/src/CMakeFiles/src.dir
+/home/bato/cit/training/CMake_Training/train4/build/include/CMakeFiles/rebuild_cache.dir
+/home/bato/cit/training/CMake_Training/train4/build/include/CMakeFiles/edit_cache.dir
+/home/bato/cit/training/CMake_Training/train4/build/include/CMakeFiles/include.dir
