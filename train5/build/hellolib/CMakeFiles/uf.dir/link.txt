@@ -1,0 +1,2 @@
+/usr/bin/ar qc libuf.a  CMakeFiles/uf.dir/src/hellolib.cpp.o
+/usr/bin/ranlib libuf.a

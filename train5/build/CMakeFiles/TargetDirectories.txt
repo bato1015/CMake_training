@@ -1,0 +1,6 @@
+/home/bato/cit/training/CMake_Training/train5/build/CMakeFiles/rebuild_cache.dir
+/home/bato/cit/training/CMake_Training/train5/build/CMakeFiles/edit_cache.dir
+/home/bato/cit/training/CMake_Training/train5/build/CMakeFiles/main2.dir
+/home/bato/cit/training/CMake_Training/train5/build/hellolib/CMakeFiles/rebuild_cache.dir
+/home/bato/cit/training/CMake_Training/train5/build/hellolib/CMakeFiles/edit_cache.dir
+/home/bato/cit/training/CMake_Training/train5/build/hellolib/CMakeFiles/uf.dir
